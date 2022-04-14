@@ -18,4 +18,8 @@ public class HinhTru extends HinhTron {
     tinhDienTich();
     theTich = dienTich * chieuCao;
   }
+  public void xuatThongTin()
+  {
+    System.out.println("Đây là hình trụ ");
+  }
 }
